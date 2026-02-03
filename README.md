@@ -15,4 +15,8 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/fibin4056x/leetcode/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [3637-trionic-array-i](https://github.com/fibin4056x/leetcode/tree/master/3637-trionic-array-i) |
 <!---LeetCode Topics End-->
