@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/fibin4056x/leetcode/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/fibin4056x/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -18,5 +19,10 @@
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/fibin4056x/leetcode/tree/master/0217-contains-duplicate) |
 | [3637-trionic-array-i](https://github.com/fibin4056x/leetcode/tree/master/3637-trionic-array-i) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/fibin4056x/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
