@@ -22,6 +22,7 @@
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/fibin4056x/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fibin4056x/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/fibin4056x/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/fibin4056x/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -43,5 +44,10 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/fibin4056x/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/fibin4056x/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/fibin4056x/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
