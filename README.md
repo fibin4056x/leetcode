@@ -19,6 +19,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/fibin4056x/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/fibin4056x/leetcode/tree/master/0242-valid-anagram) |
+| [1859-sorting-the-sentence](https://github.com/fibin4056x/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Array
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0242-valid-anagram](https://github.com/fibin4056x/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/fibin4056x/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/fibin4056x/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1859-sorting-the-sentence](https://github.com/fibin4056x/leetcode/tree/master/1859-sorting-the-sentence) |
 ## Two Pointers
 |  |
 | ------- |
